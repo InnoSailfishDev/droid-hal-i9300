@@ -15,4 +15,4 @@
 #define EXYNOS4_ENHANCEMENTS 1\
 %define installable_zip 1
 
-%include rpm/droid-hal-device.inc
+%include rpm/dhd/droid-hal-device.inc
